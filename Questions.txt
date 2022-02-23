@@ -1,0 +1,24 @@
+Questions:
+====================================================
+1.  What was the datatype of the ArrayList in the Grades class?
+2.  Why do you think it is a good idea to write your own, custom
+		method to add Students to your ArrayList?
+3.  What was the hardest part of this assignment?
+4.  What was the easiet part of this assignment?
+5.  Did you have to look anything up?  If so, what was it?
+6.  What did you learn?
+7.  Do you have any questions?
+
+
+
+
+
+Answers: Place your answers below
+====================================================
+1.  Student
+2.  To make sure it works the way you intend
+3.  Formatting output
+4.  Formulas
+5.  No
+6.  How to use array lists
+7.  No
